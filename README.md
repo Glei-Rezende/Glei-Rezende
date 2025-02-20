@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Gleialison
+<h2 align="left">Olá! Bem vindo ao meu perfil👋
+
+###
+
+🧑‍💻 Consultant SAP GRC-NFE / PI-PO
+
+🧑‍💻 Estudante de Banco de Dados na Fatec Jessen Vidal.
 
 ###
 
